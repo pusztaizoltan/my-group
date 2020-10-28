@@ -1,14 +1,11 @@
 Ádám Tébold
-<<<<<<< HEAD
 Erik Kuti
-=======
+Tébold Ádám
 Szász Gergely
-<<<<<<< HEAD
 Hantos Péter
-=======
 Zemen Zsolt
 Iszály Zsolt
->>>>>>> e8dfc9a4dd0f701865fdee62b723169bc29c8091
 Gábor Marcell
 Patyi János
->>>>>>> 9592e4c2caa1d99166bf12fba832aae413630a92
+Krausz Marcell
+Hamar Gyuri
