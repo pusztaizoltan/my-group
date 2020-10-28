@@ -1,11 +1,11 @@
 Ádám Tébold
 Szász Gergely
-<<<<<<< HEAD
 Hantos Péter
-=======
 Zemen Zsolt
 Iszály Zsolt
->>>>>>> e8dfc9a4dd0f701865fdee62b723169bc29c8091
 Gábor Marcell
 Patyi János
 Pusztai Zoltan
+
+Krausz Marcell
+
